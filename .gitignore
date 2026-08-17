@@ -1,0 +1,38 @@
+# Keil build outputs
+Objects/
+Listings/
+RTE/
+*.axf
+*.hex
+*.bin
+*.map
+*.htm
+*.lnp
+*.dep
+*.d
+*.crf
+*.o
+*.lst
+
+# Keil user settings
+*.uvguix
+*.uvguix.*
+*.uvopt
+JLinkLog.txt
+JLinkSettings.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Backup files
+*.bak
+*.orig
+*~
+
+# OS
+.DS_Store
+Thumbs.db
